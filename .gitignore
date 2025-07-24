@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pt
+
+# Env
+.env
+.venv/
+env/
+venv/
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
+
+# Large Data
+data/
+models/
